@@ -48,6 +48,7 @@ public class TennisPlayer {
 
 	@Override
 	public String toString() {
-		return "Player [id=" + id + ", name=" + name + ", surname=" + surname + "]";
+		return "TennisPlayer [id=" + id + ", name=" + name + ", surname=" + surname + "]";
 	}
+
 }

@@ -49,6 +49,7 @@ public class TennisMatch {
 
 	@Override
 	public String toString() {
-		return "Match [winner=" + winner + ", loser=" + loser + ", dateOfTheMatch=" + dateOfTheMatch + "]";
+		return "TennisMatch [winner=" + winner + ", loser=" + loser + ", dateOfTheMatch=" + dateOfTheMatch + "]";
 	}
+
 }
